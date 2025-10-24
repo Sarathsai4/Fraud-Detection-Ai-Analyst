@@ -8,3 +8,5 @@ lightgbm
 requests
 pydantic
 reportlab
+prophet
+xgboost
