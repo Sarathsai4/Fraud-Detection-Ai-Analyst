@@ -14,6 +14,13 @@ An intelligent, AI-powered fraud detection and analysis system built using Strea
 
 ---
 
+## 🗂️ Access Project Files  
+
+[![View on Google Drive](https://img.shields.io/badge/View_on-Google_Drive-blue?logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1mXnE6D2vFTyS9GKsXLJ2-OXy61RP6mr3?usp=drive_link)
+
+All project-related files — including the Streamlit source code, PDF report, datasets, and documentation — are available in the shared Google Drive folder linked above.  
+
+
 ## 🚀 Project Overview
 
 The **Fraud Detection + AI Analyst** app is an **interactive fraud risk analysis tool** that combines **machine learning**, **cost-sensitive optimization**, and **AI-based interpretation** to help financial analysts detect fraudulent transactions more effectively.
