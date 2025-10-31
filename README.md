@@ -122,3 +122,54 @@ export OPENAI_API_KEY="your_api_key"
 export OPENAI_BASE_URL="https://api.groq.com/openai"
 export OPENAI_MODEL="groq/compound"
 ```
+## 🖼️ Application Screenshots  
+
+<p align="center">
+  <img src="Images/Screenshot%202025-10-18%20172343.png" width="80%">
+  <br><em>🏠 Home Interface — Fraud Detection + AI Analyst</em>
+</p>
+
+<p align="center">
+  <img src="Images/Screenshot%202025-10-18%20182810.png" width="80%">
+  <br><em>📊 Data Upload & Validation Module</em>
+</p>
+
+<p align="center">
+  <img src="Images/Screenshot%202025-10-21%20171613.png" width="80%">
+  <br><em>⚙️ Model Training and Evaluation Workflow</em>
+</p>
+
+<p align="center">
+  <img src="Images/Screenshot%202025-10-21%20183756.png" width="80%">
+  <br><em>📈 Threshold Metrics and Evaluation Table</em>
+</p>
+
+<p align="center">
+  <img src="Images/Screenshot%202025-10-21%20183811.png" width="80%">
+  <br><em>📉 Threshold Optimization and Cost Analysis</em>
+</p>
+
+<p align="center">
+  <img src="Images/Screenshot%202025-10-21%20190203.png" width="80%">
+  <br><em>🤖 AI Analyst — Summary and Recommendations</em>
+</p>
+
+<p align="center">
+  <img src="Images/confusion_matrix.png" width="80%">
+  <br><em>🧮 Confusion Matrix — True vs Predicted Fraud Cases</em>
+</p>
+
+<p align="center">
+  <img src="Images/feature_importance.png" width="80%">
+  <br><em>🧱 Feature Importance — Top Predictors of Fraud</em>
+</p>
+
+<p align="center">
+  <img src="Images/precision_recall.png" width="80%">
+  <br><em>📊 Precision-Recall Curve — Model Performance</em>
+</p>
+
+<p align="center">
+  <img src="Images/roc_curve.png" width="80%">
+  <br><em>🚀 ROC Curve (AUC = 0.8814) — Model Discrimination Strength</em>
+</p>
