@@ -16,9 +16,14 @@ An intelligent, AI-powered fraud detection and analysis system built using Strea
 
 ## 🗂️ Access Project Files  
 
-[![View on Google Drive](https://img.shields.io/badge/View_on-Google_Drive-blue?logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1mXnE6D2vFTyS9GKsXLJ2-OXy61RP6mr3?usp=drive_link)
+<p align="center">
+  <a href="https://drive.google.com/drive/folders/1mXnE6D2vFTyS9GKsXLJ2-OXy61RP6mr3?usp=drive_link">
+    <img src="https://img.shields.io/badge/View_on-Google_Drive-blue?logo=googledrive&logoColor=white" alt="View on Google Drive">
+  </a>
+</p>
 
 All project-related files including the Streamlit source code, PDF report, datasets, and documentation are available in the shared Google Drive folder linked above.  
+
 
 
 ## 🚀 Project Overview
