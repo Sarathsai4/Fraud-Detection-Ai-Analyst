@@ -9,7 +9,7 @@ An intelligent, AI-powered fraud detection and analysis system built using Strea
 <p align="center">
 <b>Prof. Jeffrey Shaffer</b> — Director, Applied AI Lab & First Reader, University of Cincinnati  
 <br>
-<b>Prof. Lucas Timothy</b> — Assistant Professor & Second Reader, University of Cincinnati  
+<b>Prof. Lucas Timothy</b> — Assistant Professor of Business Analytics Dept. & Second Reader, University of Cincinnati  
 </p>
 
 ---
