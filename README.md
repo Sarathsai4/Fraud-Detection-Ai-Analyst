@@ -5,6 +5,15 @@ An intelligent, AI-powered fraud detection and analysis system built using Strea
 
 ---
 
+### 🧑‍🏫 Guided By  
+<p align="center">
+<b>Prof. Jeffrey Shaffer</b> — Director, Applied AI Lab & First Reader, University of Cincinnati  
+<br>
+<b>Prof. Lucas Timothy</b> — Assistant Professor & Second Reader, University of Cincinnati  
+</p>
+
+---
+
 ## 🚀 Project Overview
 
 The **Fraud Detection + AI Analyst** app is an **interactive fraud risk analysis tool** that combines **machine learning**, **cost-sensitive optimization**, and **AI-based interpretation** to help financial analysts detect fraudulent transactions more effectively.
